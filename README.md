@@ -1,4 +1,6 @@
-### Hi there 👋
+## Hi there ! 👋 
+
+This profile and the repositories will be updated soon ;)
 
 <!--
 **RAZZ-7/RAZZ-7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
